@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.vidniy.com"
         versionCode = "10"
-        version     = "1.3.0">
+        version     = "1.4.0">
 
-    <name>Видный</name>
+    <name>ООО «Видный»</name>
 
     <description>
         Мы, ООО "Видный", осуществляем свою деятельность по Большому Сочи. Являемся оптовым поставщиком в сегменте пива, воды и пивных закусок. У нас более 20 партнеров-поставщиков, большой ассортимент товара, гибкий подход к клиентам, отлаженная логистика, высококвалифицированные менеджеры. Нацелены на долгосрочные и взаимовыгодные отношения с надежными партнерами. Поможем организовать отличный бизнес и предложим превосходный товар по доступной цене.
@@ -40,12 +40,12 @@
 
 
     <platform name="android">
-        <icon src="res/android/icon/7546ebe6ad6a60ff85b48704fe57184e.png" density="ldpi" />
-        <icon src="res/android/icon/e165abff7da001b4532d922c8b288385.png" density="mdpi" />
-        <icon src="res/android/icon/4cd1dbc108708a529e4e01888c93029a.png" density="hdpi" />
-        <icon src="res/android/icon/bf50304e0a41b1f28e743c7e708637f0.png" density="xhdpi" />
-        <icon src="res/android/icon/528f599c6532d0769cfdb0bc2a2c2c7e.png" density="xxhdpi" />
-        <icon src="res/android/icon/0956d751538ca6fc9565264c8e07d98e.png" density="xxxhdpi" />
+        <icon src="res/android/icon/b468d99fff3094f8b19a7bda89eba849.png" density="ldpi" />
+        <icon src="res/android/icon/593be5175e57f606e4ad85380b142de2.png" density="mdpi" />
+        <icon src="res/android/icon/daa79fd349868ab971649bae47f9ab1d.png" density="hdpi" />
+        <icon src="res/android/icon/1bb128e576c2c3db8accd05f813063f5.png" density="xhdpi" />
+        <icon src="res/android/icon/73a949cefa0808a9c75a6071c5868b5f.png" density="xxhdpi" />
+        <icon src="res/android/icon/401e9d0229eb076021d64c9360172072.png" density="xxxhdpi" />
 
         <splash src="res/android/screen/bf8f6c776e8bbd4e854b94658cad2902.png" density="port-hdpi"/>
         <splash src="res/android/screen/0c825d81cd2d071347082adcdccec079.png" density="port-ldpi"/>
@@ -54,20 +54,20 @@
     </platform>
 
     <platform name="ios">
-        <icon src="res/ios/icon/da6d87c03641500ec31acce65b83a14a.png" width="180" height="180" />
-        <icon src="res/ios/icon/ac738f608ed053fdd738d7181aea1945.png" width="60" height="60" />
-        <icon src="res/ios/icon/2ae4da5f35a08cb17e8ba8c04cae3fff.png" width="120" height="120" />
-        <icon src="res/ios/icon/f352c63f956ff2b6e932f63d6ace5187.png" width="76" height="76" />
-        <icon src="res/ios/icon/683e0780875e2b4b5b38fe60b32c9b64.png" width="152" height="152" />
-        <icon src="res/ios/icon/75c6bf35c8a05b03ee138136bed64580.png" width="57" height="57" />
-        <icon src="res/ios/icon/99bc1dcbff8920e86c7ec8489813b207.png" width="114" height="114" />
-        <icon src="res/ios/icon/0cf584fd22f34679812aa433540ac424.png" width="72" height="72" />
-        <icon src="res/ios/icon/2cd7355732c2456f546c042936f7cf93.png" width="144" height="144" />
-        <icon src="res/ios/icon/98d18207ee609930d4a7366a365da1cd.png" width="167" height="167" />
-        <icon src="res/ios/icon/ce09cf0bbad3fca04a1effb67ce71cfb.png" width="29" height="29" />
-        <icon src="res/ios/icon/4c6c89c452c039143bd9eefcd67aed22.png" width="58" height="58" />
-        <icon src="res/ios/icon/7a049999cf09c4cf2468cf465bb5ea81.png" width="87" height="87" />
-        <icon src="res/ios/icon/ce9ecc01bd3414e8edb9308a0592c9d8.png" width="167" height="167" />
+        <icon src="res/ios/icon/224f849a6d3f823b2831570fdaa8ecee.png" width="180" height="180" />
+        <icon src="res/ios/icon/6235c7e95e138ae51b59e08f9d472608.png" width="60" height="60" />
+        <icon src="res/ios/icon/7e924b692d19914b4aa6f2ed1d49324e.png" width="120" height="120" />
+        <icon src="res/ios/icon/1c7ac9614aa8033f6c440b5d06988303.png" width="76" height="76" />
+        <icon src="res/ios/icon/ea9bb4131b04b85ecb02295b4e7ab7d5.png" width="152" height="152" />
+        <icon src="res/ios/icon/02fbbb675c28841f9ef7775ce04885e4.png" width="57" height="57" />
+        <icon src="res/ios/icon/54eb52a2d128cc7870b07bb9eeb7dd51.png" width="114" height="114" />
+        <icon src="res/ios/icon/d22bd06d0d13903379f75c03163b6acb.png" width="72" height="72" />
+        <icon src="res/ios/icon/13e4cdd7d1aba6112210df8e886c6b59.png" width="144" height="144" />
+        <icon src="res/ios/icon/df35fdbaa40102f9a1dea3fa436db76c.png" width="167" height="167" />
+        <icon src="res/ios/icon/2eeab1fd7bcbf8f669e7ad68f1af1dd4.png" width="29" height="29" />
+        <icon src="res/ios/icon/c24a03e4637b47fce700b6eaf0133091.png" width="58" height="58" />
+        <icon src="res/ios/icon/3e6982cd0816a45b1cc3c1cafd6f3e62.png" width="87" height="87" />
+        <icon src="res/ios/icon/ba667a64b6d41f1c23f7975bd25b1be6.png" width="167" height="167" />
 
         <splash src="res/ios/screen/1669368b0314451469dede5cfccab3a1.png" />
         <splash src="res/ios/screen/b97a7d37a3b7f6c11e6a224817818a15.png" />
